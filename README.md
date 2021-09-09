@@ -1,7 +1,6 @@
-## Yoo 👋, guys!
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+### Yoo 👋, guys!
 
-### I'm Lim Zhang, a passionate frontend developer.
+**I'm Lim Zhang, a passionate frontend developer.**
 
 - 🎓 I graduated from the University of Sydney.
 - 💰 Currently working in Shanghai, China.

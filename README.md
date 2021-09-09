@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lim</h1>
-<h3 align="center">A passionate frontend developer</h3>
+## Yoo 👋, guys!
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
+### I'm Lim Zhang, a passionate frontend developer.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🎓 I graduated from the University of Sydney.
+- 💰 Currently working in Shanghai, China.
 
+> ***Have a nice day, stranger! 🌝***
+
+⭐️ From [Lim](https://github.com/Limwalnut)

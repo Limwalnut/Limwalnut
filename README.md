@@ -6,5 +6,3 @@
 - 💰 Currently working in Shanghai, China.
 
 **Have a nice day, stranger! 🌝**
-
-![](http://antzuhl.cn:4000/get/@littleTreeme)
